@@ -1,2 +1,2 @@
-# Predicting-a-House-s-Price
+# Predicting-House-Price
 The project is for Statistical Learning course
